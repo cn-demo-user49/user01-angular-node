@@ -13,4 +13,4 @@ spec:
       - path: /$WERCKER_APPLICATION_OWNER_NAME/user01/
         backend:
           serviceName: rest-jscreditscore-svc01
-          servicePort: 8088
+          servicePort: 8001
